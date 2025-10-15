@@ -7,10 +7,6 @@
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="cell4" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
 </div>
 
-<!-- =========================
-   NEON GLITCH TYPING BANNER
-   height increased to prevent text cutting
-   ========================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&duration=4500&pause=600&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1350&height=210&lines=⚡+AHSAN+HABIB+⚡;👑+OWNER+OF+BANGLADESH+CYBER+2.0+👑;🛡️+CYBER+SECURITY+ANALYST+🛡️" alt="typing banner" style="filter:drop-shadow(0 6px 18px rgba(0,255,153,0.15))" />
 </p>
