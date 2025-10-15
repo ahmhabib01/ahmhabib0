@@ -47,7 +47,7 @@ root@cyber-hub:~# whoami
 
 ---
 
-## 📊 CYBER STATS — neon cards (stable sources)
+## 📊 CYBER STATS 
 
 <div align="center" style="display:flex;flex-direction:column;gap:12px;align-items:center;max-width:1100px;margin:auto">
   <!-- Row: stats + streak -->
@@ -56,11 +56,11 @@ root@cyber-hub:~# whoami
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmhabib01&theme=tokyonight&hide_border=true&background=0d0f12&ring=00ff99&fire=ff66b2" alt="streak" style="width:48%;min-width:260px;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
   </div>
 
-  <!-- Activity graph full width -->
+  
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmhabib01&bg_color=000000&color=00ff99&line=ff66b2&point=ffffff&area=true&hide_border=true" alt="activity graph" style="width:95%;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
 
-  <!-- Profile summary & language cards -->
+  
 
   <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmhabib01&theme=tokyonight" alt="summary" style="width:45%;min-width:220px;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
