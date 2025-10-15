@@ -30,10 +30,10 @@ root@cyber-hub:~# whoami
 
 ---
 
-## 
+## WHAT I BUILD ?
 
-* 🛡️ Security automation & SOC tooling (ethical)
-* 🤖 AI assistants for ops & security (BDC CHAT BOT)
+* 🛡️ Security automation & SOC tooling 
+* 🤖 AI assistants for ops & security 
 * 📦 Secure integrations & toolkits for blue-teamers
 * 🧩 Research projects, writeups & training labs
 
