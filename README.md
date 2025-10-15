@@ -1,14 +1,4 @@
-<!-- ======================================================
-  🔥 THE IMPOSSIBLE CYBERVERSE — AHSAN HABIB
-  Persona: Cyber Security Analyst / Ethical Hacker
-  Theme: Gradient (Neon Green → Cyan → Pink)
-  Single-file README.md — copy & paste into your profile repo
-  ====================================================== -->
-
-<!-- =========================
-   HEADER — NEON CIRCUIT GRID (tech-futuristic GIF)
-   Replace the GIF URL below with your preferred grid GIF if you want.
-   ========================= -->
+#
 <p align="center">
   <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" alt="neon-circuit-grid" width="100%" style="max-width:1200px;border-radius:12px;box-shadow:0 18px 60px rgba(0,0,0,0.6)" />
 </p>
