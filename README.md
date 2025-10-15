@@ -18,7 +18,7 @@
 
 ---
 
-## 👾 WHO I AM (AI Terminal — ethical vibe)
+## 👾 WHO I AM ?
 ```bash
 root@cyber-hub:~# whoami
 > Name : Ahsan Habib
