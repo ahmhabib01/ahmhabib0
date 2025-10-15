@@ -76,6 +76,9 @@ root@cyber-hub:~# whoami
   <a href="https://github.com/ahmhabib01/FB-Random-Old" title="FB-Random-Old">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=FB-Random-Old&theme=tokyonight" alt="BDC Chat Bot" style="margin:6px;border-radius:8px;box-shadow:0 12px 30px rgba(0,0,0,0.5)" />
   </a>
+    <a href="https://github.com/ahmhabib01" title="More ethical projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=FACEBOOK-BRUTEFORCE-ATTACk&theme=tokyonight" alt="FACEBOOK-BRUTEFORCE-ATTACk" style="margin:6px;border-radius:8px;box-shadow:0 12px 30px rgba(0,0,0,0.5)" />
+  </a>
   <a href="https://github.com/ahmhabib01" title="More ethical projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=BCTRACKER&theme=tokyonight" alt="BCTRACKER" style="margin:6px;border-radius:8px;box-shadow:0 12px 30px rgba(0,0,0,0.5)" />
   </a>
