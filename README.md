@@ -1,12 +1,5 @@
 #
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" alt="neon-circuit-grid" width="100%" style="max-width:1200px;border-radius:12px;box-shadow:0 18px 60px rgba(0,0,0,0.6)" />
-</p>
 
-<!-- =========================
-   SMALL NEON CELLS — 4x small looping GIFs
-   (keeps header compact, cyber look)
-   ========================= -->
 <div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;margin-top:12px;margin-bottom:8px;">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="cell1" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
   <img src="https://media.giphy.com/media/3o6ZsVb3xO2e1Q6Yv6/giphy.gif" alt="cell2" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
