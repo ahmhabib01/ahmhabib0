@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXVtYTc3ano3ZDF3NXdlbHA0bXptOWllN2h2eXdseGRpcnlxdDBwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mpWFQhaf8m0keXejqB/giphy.gif" alt="cell1" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
   <img src="https://media.giphy.com/media/3o6ZsVb3xO2e1Q6Yv6/giphy.gif" alt="cell2" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYxaHJwYTBvNzh2Nnd1ZzhuaWFiOWZhbWxzbHhtNzhpMG8xYmEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" alt="cell3" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="cell4" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXVtYTc3ano3ZDF3NXdlbHA0bXptOWllN2h2eXdseGRpcnlxdDBwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/I0e4u216Qhww8eRTVq/giphy.gif" alt="cell4" style="width:170px;max-width:40vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
 </div>
 
 <p align="center">
