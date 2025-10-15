@@ -88,15 +88,6 @@ root@cyber-hub:~# whoami
 
 ---
 
-## 🎵 CYBER SOUNDTRACK 
-
-<p align="center">
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31spduluhescjfpb7b4bkmf55exi&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" alt="spotify" style="border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
-</p>
-
----
-
 ##
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=400&color=00ff99&center=true&vCenter=true&multiline=true&width=950&height=140&lines=[BOOT]+Kernel+secure+modules+loaded...;[OK]+SOC+agents+online;[OK]+Threat+intel+sync+complete;[RUN]+BDC+services+active;[READY]+Welcome+Analyst+Ahsan" alt="boot logs" style="border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.6)" />
