@@ -92,7 +92,7 @@ root@cyber-hub:~# whoami
 
 <p align="center">
   
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" alt="spotify" style="border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31spduluhescjfpb7b4bkmf55exi&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" alt="spotify" style="border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
 </p>
 
 ---
