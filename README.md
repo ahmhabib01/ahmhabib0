@@ -70,11 +70,11 @@ root@cyber-hub:~# whoami
 
 ---
 
-## 🎨 FEATURED (ethical projects & demos)
+## 🎨 FEATURED 
 
 <p align="center">
-  <a href="https://github.com/ahmhabib01/BDC-CHAT-BOT" title="BDC Chat Bot (demo)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=BDC-CHAT-BOT&theme=tokyonight" alt="BDC Chat Bot" style="margin:6px;border-radius:8px;box-shadow:0 12px 30px rgba(0,0,0,0.5)" />
+  <a href="https://github.com/ahmhabib01/FB-Random-Old" title="FB-Random-Old">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=FB-Random-Old&theme=tokyonight" alt="BDC Chat Bot" style="margin:6px;border-radius:8px;box-shadow:0 12px 30px rgba(0,0,0,0.5)" />
   </a>
   <a href="https://github.com/ahmhabib01" title="More ethical projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=Awesome-Security-Tools&theme=tokyonight" alt="Ethical Tools" style="margin:6px;border-radius:8px;box-shadow:0 12px 30px rgba(0,0,0,0.5)" />
